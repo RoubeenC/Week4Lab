@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Home
+ * @author Roubeen Chaudhry
  */
 public class Note  implements Serializable {
     private String title;
